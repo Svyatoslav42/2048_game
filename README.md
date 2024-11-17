@@ -11,7 +11,7 @@ A simple and fun implementation of the classic 2048 puzzle game using JavaScript
 
 ---
 
-## 🌐 [Demo Link](https://your-demo-link-here)
+## 🌐 [Demo Link](https://svyatoslav42.github.io/2048_game/)
 
 
 ## 🎨 [Reference](https://play2048.co/)
